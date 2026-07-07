@@ -22,5 +22,4 @@ class Solution(object):
 
 
 
-                
         return answer
